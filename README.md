@@ -1,6 +1,12 @@
 # JavaFX Registration, Login and WebView Form
 
 This JavaFX application allows users to register, log in, and view a WebView of a GitHub profile.
+<p align="center">
+  <strong>Cupcakes</strong>
+</p>
+<p align="center">
+  <img alt="Cupcakes" src="https://github.com/sobantahir/CupcakeParty/assets/171970703/f4513f1e-1abc-4425-9ed6-2bfa6a9c25d4">
+</p>
 
 ### Components 
 1 - Main Application (Main.java)
