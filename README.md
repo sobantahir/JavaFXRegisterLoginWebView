@@ -7,6 +7,15 @@ This JavaFX application allows users to register, log in, and view a WebView of 
 <p align="center">
   <img alt="goat" src="https://yt3.googleusercontent.com/ytc/AIdro_mPFVsxROj1dOtTWc9iNBwDYV4z42Q8LPokBSewiW9pCSg=s176-c-k-c0x00ffffff-no-rj">
 </p>
+<p align="center">
+  <strong>And of course you too Mr.Habib</strong>
+</p>
+<p align="center">
+  <img alt="mrHabib" src="https://media.licdn.com/dms/image/C4D03AQHm3n1voE2Bfg/profile-displayphoto-shrink_200_200/0/1640204107788?e=2147483647&v=beta&t=jlfJ2oZAZUT1ZHyDmZ1aBHze1fdoSle90DADq2BDCEM">
+</p>
+<p align="center">
+  <strong>💪❤💪</strong>
+</p>
 
 ### Components 
 1 - Main Application (Main.java)
