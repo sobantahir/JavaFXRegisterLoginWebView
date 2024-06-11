@@ -2,10 +2,10 @@
 
 This JavaFX application allows users to register, log in, and view a WebView of a GitHub profile.
 <p align="center">
-  <strong>Cupcakes</strong>
+  <strong>THE G.O.A.T</strong>
 </p>
 <p align="center">
-  <img alt="Cupcakes" src="https://github.com/sobantahir/CupcakeParty/assets/171970703/f4513f1e-1abc-4425-9ed6-2bfa6a9c25d4">
+  <img alt="goat" src="https://yt3.googleusercontent.com/ytc/AIdro_mPFVsxROj1dOtTWc9iNBwDYV4z42Q8LPokBSewiW9pCSg=s176-c-k-c0x00ffffff-no-rj">
 </p>
 
 ### Components 
