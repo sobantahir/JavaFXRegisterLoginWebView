@@ -23,7 +23,7 @@ public class Main extends Application {
 		Parent root = FXMLLoader.load(getClass().getResource("/view/Registration.fxml"));
 		primaryStage.setTitle("JavaFXLoginWebView App");
 		primaryStage.setScene(new Scene(root));
-		primaryStage.show();
+		primaryStage.show(); 
 	}
 
 	/**
